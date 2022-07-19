@@ -36,7 +36,7 @@ Below is an example of a github media file in 360 view:
 
 ![view](docs/githubnew.gif)
 
-## Additional Information
+## Development Tips
 
 * The `video_360` plugin only works if the `build.gradle` file is edited. Add these two lines in the `defaultConfig` and `dependencies` section of the file.
 
